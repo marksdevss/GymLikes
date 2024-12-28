@@ -13,20 +13,3 @@ Receitas Saudáveis: Uma seção dedicada a receitas nutritivas, com informaçõ
 Dicas de Bem-Estar: Artigos e conteúdos motivacionais para ajudar os usuários a manterem-se focados em suas metas de saúde e fitness.
 Tecnologias Utilizadas:
 
-HTML, CSS, JavaScript
-Frameworks: [adicionar frameworks utilizados, se houver]
-[Outras tecnologias, como APIs, bibliotecas ou ferramentas específicas]
-Como Começar:
-
-Clone o repositório:
-bash
-Copiar código
-git clone https://github.com/seuusuario/academia-fitlife.git
-Navegue até o diretório do projeto:
-bash
-Copiar código
-cd academia-fitlife
-Abra o arquivo index.html em seu navegador para visualizar o website.
-Contribuições:
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request para melhorar o projeto.
